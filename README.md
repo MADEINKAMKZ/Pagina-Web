@@ -6,3 +6,5 @@ authors:
 Mónica, Aaron, Zeyda, Kevin, Kiara
 
 Gracias
+
+Los lenguajes usados son: Java, html, JS, CSS
